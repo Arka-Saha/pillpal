@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1017830663612</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJ3yibVXkfqb9JrIXUBVcSYiH3d048G9A</string>
+    <string name="google_app_id" translatable="false">1:1017830663612:android:1ad36f433d7499e750b7b9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJ3yibVXkfqb9JrIXUBVcSYiH3d048G9A</string>
+    <string name="google_storage_bucket" translatable="false">pillpal-1b8bb.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pillpal-1b8bb</string>
+</resources>
